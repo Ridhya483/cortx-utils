@@ -1,5 +1,0 @@
-cortx:
- software:
-   consul:
-     config_path: /opt/consul/conf
-     data_path: /opt/consul/data

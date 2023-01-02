@@ -1,2 +1,0 @@
-conf_url_list:
-  consul_endpoints: 'cortx>external>consul>endpoints[1]'
